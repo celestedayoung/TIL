@@ -6,14 +6,33 @@ When writing Java code these days, I use Intellij, and in the past, I used PyCha
 ## ✓ What is an IDE and a Code Editor?
 ### IDE(Integrated Development Environment)
 #### Definition
-> An IDE is a software application that provides comprehensive facilities for software development.
+> ***An IDE is a software application that provides comprehensive facilities for software development.***
 - An IDE normally consists of at least a source-code editor, build automation tools, and a debugger.
 - Some IDEs such as Intellij or Eclipse contain the necessary compiler, interpreter or both.
+- 
+#### Examples
+IntelliJ, PyCharm, Eclipse...
+
+
+#### Pros and Cons
 
 ### Code Editor
 #### Definition
-> A code editor is a text editor program designed specifically for editing source code of computer programs.
+> ***A code editor is a text editor program designed specifically for editing source code of computer programs.***
+- It is a more advanced version of a text editor and both can be used for writing and editing source code.
+- Modern code editors can offer you much more than that, for example, you can use them to debug code or work with Git.
 
+#### Pros and Cons
+##### Pros
+- **Speed**: Code editors are generally lightweight and fast as they don't have a lot of features included on installation
+- **Simplicity**: Code editors have fewer predefined features, so they tend to have a more strightforward and minimalistic UI.
+- **Free to use**: Most code editors are open source and free to use.
+- **Extensibility**: There are strong communities around these code editors, which means some good solution exist to extend the tools with new features.
+
+##### Cons
+- **Not pre-configured**: It can take a lot of time to customize code editors, find the right extensions, and make them all work together with each other correctly.
+- **Extension fatigue**: 
+- **Unexpected behavior**
 
 ## ✓ What is the difference between two programs?
 

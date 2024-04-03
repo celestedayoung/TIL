@@ -58,6 +58,6 @@ VSCode, Cursor, Zed ...
 ---
 
 ### references
-https://en.wikipedia.org/wiki/Integrated_development_environment
-https://en.wikipedia.org/wiki/Source-code_editor#Notable_examples
+https://en.wikipedia.org/wiki/Integrated_development_environment  
+https://en.wikipedia.org/wiki/Source-code_editor#Notable_examples  
 https://blog.jetbrains.com/webstorm/2024/03/ides-vs-code-editors/
